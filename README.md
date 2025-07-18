@@ -1,6 +1,4 @@
 
----
-
 # 출석 관리 앱 (Attendance Management App)
 
 ## 프로젝트 설명
@@ -40,7 +38,6 @@
 ![교사용 로그인 - 출결번호 생성](image/교사랜덤번호발급.png)
 랜덤번호는 `checkno` 컬럼에 저장되어, 학생의 ID와 교사의 ID가 연결됩니다.
 
-![교사용 로그인 - checkno 컬럼](image/checkno컬럼.png)
 
 ### 6. 교사용 로그인 - 마이페이지
 
